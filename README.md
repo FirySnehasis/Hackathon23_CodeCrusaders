@@ -18,3 +18,9 @@ We used Blueshift to backtest our strategy. The python code can be accessed from
 
 https://drive.google.com/file/d/1IRTICY6nFgXquJpyC1o5P803WmIxwq0t/view?usp=drive_link
 
+##
+
+
+<img width="638" alt="image" src="https://github.com/FirySnehasis/Hackathon23_CodeCrusaders/assets/98053431/b618885f-fc21-40d3-8aec-beaa3246c680">
+
+
