@@ -1,4 +1,4 @@
-## Hackathon23_
+## SnT Hackathon 2023
 Our submission to SnT Hackathon'23 Algo Strategy Development.
 
  
