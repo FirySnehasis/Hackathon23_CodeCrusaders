@@ -14,3 +14,7 @@ Our submission to SnT Hackathon'23 Algo Strategy Development.
           
     - Email - ssnishasis22@iitk.ac.in
 
+We used Blueshift to backtest our strategy. The python code can be accessed from the link below - 
+
+https://drive.google.com/file/d/1IRTICY6nFgXquJpyC1o5P803WmIxwq0t/view?usp=drive_link
+
